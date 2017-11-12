@@ -28,4 +28,9 @@ If you want to join our team you can just open issue requesting an invite and we
 This is GPL-based source so do whatever you want with it.
 
 
-Need help for world work database. Can help me?
+###########################################################
+
+<b>Need help for world work database. Can help me?</b>
+
+###########################################################
+
