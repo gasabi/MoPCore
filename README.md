@@ -26,3 +26,6 @@ mmaps: https://mega.nz/#!XwERSKBa!7kdZc8SMY0a0xjA9oMg0_-Mo4t67r7cHriCx80vyRns
 If you want to join our team you can just open issue requesting an invite and we will add you.
 
 This is GPL-based source so do whatever you want with it.
+
+
+Need help for world work database. Can help me?
